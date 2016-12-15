@@ -1,0 +1,27 @@
+.div{
+  background-color: white;
+  height: 40px;
+  width: 40px;
+  float: left;
+  text-align: center;
+  line-height: 40px;  
+  /*border: 1px solid gray;*/
+  color: black;
+  box-sizing: border-box;
+}
+
+.white{
+  background-color: #FFE4C4;
+}
+.black{
+  background-color: gray;
+}
+.nearWhite{
+  background-color: white;
+}
+    
+.feild{
+  height: 360px;
+  width: 360px;
+  display: inline-block;
+}
